@@ -27,9 +27,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArkDreal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- 
- <div class="tenor-gif-embed" data-postid="26049595" data-share-method="host" data-aspect-ratio="0.8125" data-width="100%"><a href="https://tenor.com/view/kobe-bryant-kobe-legendary-gif-26049595">Kobe Bryant Kobe GIF</a>from <a href="https://tenor.com/search/kobe+bryant-gifs">Kobe Bryant GIFs</a></div> 
 
+ ![Snake animation](https://github.com/seu-us/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ 
  
  
 
