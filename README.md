@@ -28,7 +28,7 @@
 </div>
  
 
- ![Snake animation](https://github.com/ArkDreal/ArkDreal/blob/output/github-contribution-grid-snake.svg)
+
  
  
  
