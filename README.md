@@ -2,7 +2,7 @@
 
 - 🖥️ Desenvolvedor Full-Stack Júnior                                                                  
 - 🎓 Formado pelo Senai de Informática
-- 🌱 Atualmente estou aprimorando meu conhecimeto em Front-End
+- 🌱 Atualmente estou aprimorando meu conhecimeto em programação
 - 👯 Estou procurando me moldar para o mercado de Developers
 - 📍 Diadema, São Paulo
 
